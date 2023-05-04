@@ -5,11 +5,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-/**
- * SWEN20003 Project 2, Semester 2, 2022
- *
- * @author Nguyen Linh Dan Le
- */
 public class ShadowDimension extends AbstractGame {
     private final static int WINDOW_WIDTH = 1024;
     private final static int WINDOW_HEIGHT = 768;
